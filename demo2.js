@@ -8,3 +8,5 @@ var title = document.getElementsByClassName('title');
 title[0].style.fontWeight = 'bold';
 
 title[0].style.color = 'green';
+
+console.log("good");
